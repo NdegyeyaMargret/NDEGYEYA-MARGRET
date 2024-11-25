@@ -1,0 +1,47 @@
+#header{
+	
+	color:cyan;
+	text-shadow:4px 3px red;
+	font-size:116px;
+	font-family:algerian;
+	text-decoration:underline;
+}
+.Hero{
+	color:red;
+	font-family:arial;
+	font-weight:strong;
+	
+}
+section.menu{
+color:green;
+font-weight:strong;
+
+}
+section.container{
+	color:blue;
+	font-weight:strong;
+	
+}
+body{
+	background-color:rgb(255, 153, 51);
+	border:15px dashed green;
+	padding:21px;
+
+}
+.footer{
+	color:hsl(120, 100%, 20%);
+font-size:35px;
+}
+.p{
+	color:#00ff00;
+	
+}
+a[href]{
+	color:red;
+	font-size:32px;
+	background-color:grey;
+}
+img[src]{
+	text-align:center;
+
+}
